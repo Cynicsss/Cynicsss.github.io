@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cynicsss</title>
-    <link>/</link>
+    <link>https://cynicsss.github.io/</link>
     <description>Recent content on Cynicsss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cynicsss.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>/posts/firstblog/</link>
+      <link>https://cynicsss.github.io/posts/firstblog/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/posts/firstblog/</guid>
+      <guid>https://cynicsss.github.io/posts/firstblog/</guid>
       <description> asdasd 中文可以吗
  asdasd sss  </description>
     </item>
