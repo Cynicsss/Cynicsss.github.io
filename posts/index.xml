@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Cynicsss</title>
+		<link>http://example.org/posts/</link>
+		<description>Recent content in Posts on Cynicsss</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>My First Post</title>
+			<link>http://example.org/posts/firstblog/</link>
+			<pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+			
+			<guid>http://example.org/posts/firstblog/</guid>
+			<description> asdasd 中文可以吗
+ asdasd sss  </description>
+			<content type="html"><![CDATA[<hr>
+<p>asdasd
+中文可以吗</p>
+<ul>
+<li>asdasd</li>
+<li>sss</li>
+</ul>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
