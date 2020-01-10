@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>daily on Cynicsss</title>
+    <link>/categories/daily/</link>
+    <description>Recent content in daily on Cynicsss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2019 Cynicsss.</copyright>
+    <lastBuildDate>Sun, 11 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/daily/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>首次提交</title>
+      <link>/post/firstpost/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/firstpost/</guid>
+      <description>&lt;p&gt;blog首次提交测试&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
