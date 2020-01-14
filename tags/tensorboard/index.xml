@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Cynicsss</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Cynicsss</description>
+    <title>Tensorboard on Cynicsss</title>
+    <link>/tags/tensorboard/</link>
+    <description>Recent content in Tensorboard on Cynicsss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2019 Cynicsss.</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/tensorboard/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,15 +22,6 @@
 &lt;a target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; 
   href=&#34;https://example.com/images/tensorboard01.png&#34;&gt;&lt;img  src=&#34;https://example.com/images/tensorboard01.png&#34;
         alt=&#34;preview&#34;/&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>首次提交</title>
-      <link>/post/firstpost/</link>
-      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/firstpost/</guid>
-      <description>&lt;p&gt;blog首次提交测试&lt;/p&gt;</description>
     </item>
     
   </channel>
