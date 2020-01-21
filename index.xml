@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2019 Cynicsss.</copyright>
-    <lastBuildDate>Fri, 10 Jan 2020 10:00:55 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Abouts</title>
@@ -18,15 +27,6 @@
       <pubDate>Fri, 10 Jan 2020 10:00:55 +0800</pubDate>
       
       <guid>/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/</guid>
       <description></description>
     </item>
     
