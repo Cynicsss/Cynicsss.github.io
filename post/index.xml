@@ -34,6 +34,15 @@
     </item>
     
     <item>
+      <title>DANet-CCNet</title>
+      <link>/post/danet-ccnet/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/danet-ccnet/</guid>
+      <description>&lt;p&gt;两篇文章都是将self-attention机制应用到分割当中，扩大感受野。第二篇文章采用了更巧妙的方法来减少参数。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>首次提交</title>
       <link>/post/firstpost/</link>
       <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>

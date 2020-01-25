@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision on Cynicsss</title>
+    <link>/categories/computer-vision/</link>
+    <description>Recent content in Computer Vision on Cynicsss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2019 Cynicsss.</copyright>
+    <lastBuildDate>Mon, 21 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DANet-CCNet</title>
+      <link>/post/danet-ccnet/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/danet-ccnet/</guid>
+      <description>&lt;p&gt;两篇文章都是将self-attention机制应用到分割当中，扩大感受野。第二篇文章采用了更巧妙的方法来减少参数。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
