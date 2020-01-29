@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>/categories/</loc><lastmod>2020-01-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/</loc><lastmod>2020-01-21T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/agss-vos/</loc><lastmod>2020-01-29T00:00:00+00:00</lastmod></url><url>
+    <loc>/categories/</loc><lastmod>2020-01-29T00:00:00+00:00</lastmod></url><url>
+    <loc>/categories/computer-vision/</loc><lastmod>2020-01-29T00:00:00+00:00</lastmod></url><url>
+    <loc>/</loc><lastmod>2020-01-29T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/</loc><lastmod>2020-01-29T00:00:00+00:00</lastmod></url><url>
+    <loc>/tags/</loc><lastmod>2020-01-29T00:00:00+00:00</lastmod></url><url>
+    <loc>/tags/video-object-segmentation/</loc><lastmod>2020-01-29T00:00:00+00:00</lastmod></url><url>
     <loc>/categories/leetcode/</loc><lastmod>2020-01-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/</loc><lastmod>2020-01-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/tags/</loc><lastmod>2020-01-21T00:00:00+00:00</lastmod></url><url>
     <loc>/tags/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc><lastmod>2020-01-21T00:00:00+00:00</lastmod></url><url>
     <loc>/post/%E5%AE%9E%E7%94%A8%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc><lastmod>2020-01-21T00:00:00+00:00</lastmod></url><url>
     <loc>/about/about/</loc><lastmod>2020-01-10T10:00:55+08:00</lastmod></url><url>
@@ -12,7 +15,6 @@
     <loc>/categories/pytorch/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url>
     <loc>/post/torchtensorboard/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url>
     <loc>/tags/tensorboard/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url>
-    <loc>/categories/computer-vision/</loc><lastmod>2019-01-21T00:00:00+00:00</lastmod></url><url>
     <loc>/post/danet-ccnet/</loc><lastmod>2019-01-21T00:00:00+00:00</lastmod></url><url>
     <loc>/tags/semantic-segmentation/</loc><lastmod>2019-01-21T00:00:00+00:00</lastmod></url><url>
     <loc>/categories/daily/</loc><lastmod>2018-03-11T00:00:00+00:00</lastmod></url><url>
