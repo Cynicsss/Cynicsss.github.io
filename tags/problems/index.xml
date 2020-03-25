@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2019 Cynicsss.</copyright>
-    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/problems/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>剑指offer11-20</title>
+      <link>/post/%E5%89%91%E6%8C%87offer11-20/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E5%89%91%E6%8C%87offer11-20/</guid>
+      <description>11题目描述 二进制中1的个数： 输入一个整数，输出该数二进制表示中1的个数。其中负数用补码表示。 思路 首先要明白几个常识 1.计算机中整数都是以补</description>
+    </item>
     
     <item>
       <title>剑指offer01-10</title>
