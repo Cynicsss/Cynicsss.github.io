@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>/categories/</loc><lastmod>2020-03-25T00:00:00+00:00</lastmod></url><url>
-    <loc>/</loc><lastmod>2020-03-25T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/</loc><lastmod>2020-03-25T00:00:00+00:00</lastmod></url><url>
-    <loc>/tags/problems/</loc><lastmod>2020-03-25T00:00:00+00:00</lastmod></url><url>
-    <loc>/tags/</loc><lastmod>2020-03-25T00:00:00+00:00</lastmod></url><url>
-    <loc>/categories/%E5%89%91%E6%8C%87offer/</loc><lastmod>2020-03-25T00:00:00+00:00</lastmod></url><url>
+    <loc>/categories/</loc><lastmod>2020-03-31T00:00:00+00:00</lastmod></url><url>
+    <loc>/</loc><lastmod>2020-03-31T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/</loc><lastmod>2020-03-31T00:00:00+00:00</lastmod></url><url>
+    <loc>/tags/problems/</loc><lastmod>2020-03-31T00:00:00+00:00</lastmod></url><url>
+    <loc>/tags/</loc><lastmod>2020-03-31T00:00:00+00:00</lastmod></url><url>
+    <loc>/categories/%E5%89%91%E6%8C%87offer/</loc><lastmod>2020-03-31T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/%E5%89%91%E6%8C%87offer21-30/</loc><lastmod>2020-03-31T00:00:00+00:00</lastmod></url><url>
     <loc>/post/%E5%89%91%E6%8C%87offer11-20/</loc><lastmod>2020-03-25T00:00:00+00:00</lastmod></url><url>
     <loc>/post/%E5%89%91%E6%8C%87offer01-10/</loc><lastmod>2020-03-23T00:00:00+00:00</lastmod></url><url>
     <loc>/post/agss-vos/</loc><lastmod>2020-01-29T00:00:00+00:00</lastmod></url><url>
@@ -25,5 +26,4 @@
     <loc>/tags/semantic-segmentation/</loc><lastmod>2019-01-21T00:00:00+00:00</lastmod></url><url>
     <loc>/post/context-encoding-for-semantic-segmentation/</loc><lastmod>2018-07-06T00:00:00+00:00</lastmod></url><url>
     <loc>/categories/daily/</loc><lastmod>2018-03-11T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/firstpost/</loc><lastmod>2018-03-11T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/%E5%89%91%E6%8C%87offer21-30/</loc></url></urlset>
+    <loc>/post/firstpost/</loc><lastmod>2018-03-11T00:00:00+00:00</lastmod></url></urlset>
