@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2019 Cynicsss.</copyright>
-    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/problems/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>剑指offer41-50</title>
+      <link>/post/%E5%89%91%E6%8C%87offer41-50/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E5%89%91%E6%8C%87offer41-50/</guid>
+      <description>41题目描述 和为S的连续正数序列 小明很喜欢数学,有一天他在做数学作业时,要求计算出9~16的和,他马上就写出了正确答案是100。但是他并不满</description>
+    </item>
     
     <item>
       <title>剑指offer31-40</title>
