@@ -12,12 +12,14 @@
 <p><a target="_blank" rel="noopener noreferrer" 
   href="/images/wt01.png"><img  src="/images/wt01.png"
         alt="具有丰富自定义功能的Windows Terminal"/></a></p>
+<hr>
 <h2 id="windows-terminal-installation">Windows Terminal Installation</h2>
 <p>Windows Terminal已经在微软商店上架，如果可已登录microsoft store，直接在商店搜索安装即可。</p>
 <p>如果没有办法使用，可以在<a href="https://github.com/microsoft/terminal/tags"target="_blank">release</a> 下载Microsoft.WindowsTerminal_1.1.1671.0_8wekyb3d8bbwe.msixbundle直接安装即可。</p>
 <p>也可以用chocolatey安装：</p>
 <pre><code>choco install microsoft-windows-terminal
 </code></pre><p>安装好后，WT的界面是有些丑的&hellip; 下面讲一下如何进一步配置WT。</p>
+<hr>
 <h2 id="windows-terminal-settings">Windows Terminal Settings</h2>
 <p>首先我们要进入Windows Terminal的配置文件，在下拉菜单中，选择设置/Settings，这一操作会使用系统默认文本编辑器打开Windows Terminal的配置文件。
 <a target="_blank" rel="noopener noreferrer" 
@@ -33,9 +35,10 @@
 <p><a target="_blank" rel="noopener noreferrer" 
   href="/images/wt03.png"><img  src="/images/wt03.png"
         alt="settings.json格式"/></a></p>
+<hr>
 <h3 id="appearance-configuration">Appearance Configuration</h3>
-<p><strong>调整背景</strong>
-Windows Terminal的背景可以是一种纯色，也可以是一张高清壁纸，GIF动图等。纯色背景可以直接设为默认，也可以根据你的colorSchemes(我们的配色主题)改变，也可以在profiles的每个环境里面单独设置。同时我们让背景添加透明的亚克力着色，就可以使用下面三条指令：</p>
+<p><strong>调整背景</strong></p>
+<p>Windows Terminal的背景可以是一种纯色，也可以是一张高清壁纸，GIF动图等。纯色背景可以直接设为默认，也可以根据你的colorSchemes(我们的配色主题)改变，也可以在profiles的每个环境里面单独设置。同时我们让背景添加透明的亚克力着色，就可以使用下面三条指令：</p>
 <pre><code>&quot;profiles&quot;:
     {
         &quot;defaults&quot;:
@@ -58,6 +61,7 @@ Windows Terminal的背景可以是一种纯色，也可以是一张高清壁纸�
 <p><a target="_blank" rel="noopener noreferrer" 
   href="/images/wt05.png"><img  src="/images/wt05.png"
         alt="Windows Terminal"/></a></p>
+<hr>
 <p><strong>更换文本背景主题</strong></p>
 <p>这里推荐全网最丰富的终端配色方案：(iTerm2-Color-Schemes)[https://github.com/mbadolato/iTerm2-Color-Schemes]。找到喜欢的主题风格，记下名字，去windowsterminal中找到相应json文件，复制其中内容到<code>settings.json</code>的schemes中：
 <a target="_blank" rel="noopener noreferrer" 
@@ -67,8 +71,9 @@ Windows Terminal的背景可以是一种纯色，也可以是一张高清壁纸�
 <a target="_blank" rel="noopener noreferrer" 
   href="/images/wt07.png"><img  src="/images/wt07.png"
         alt="color schemes"/></a></p>
-<p><strong>配置所启动的环境</strong>
-Windows Terminal唤起环境时，是用配置文件里面的<code>commandline</code>这一属性定义的命令来进入相应环境。所以我们可以自定义执行的命令。我们以SSH远程登录为例子来介绍：</p>
+<hr>
+<p><strong>配置所启动的环境</strong></p>
+<p>Windows Terminal唤起环境时，是用配置文件里面的<code>commandline</code>这一属性定义的命令来进入相应环境。所以我们可以自定义执行的命令。我们以SSH远程登录为例子来介绍：</p>
 <p>默认的环境就是cmd与powershell了：</p>
 <pre><code>{
     &quot;guid&quot;: &quot;{61c54bbd-c2c6-5271-96e7-009a87ff44bf}&quot;,
@@ -90,8 +95,9 @@ Windows Terminal唤起环境时，是用配置文件里面的<code>commandline</
 &ldquo;icon&rdquo;: &ldquo;ms-appdata:///roaming/icon.png&rdquo;
 }</p>
 <p>进入WSL同理可用这个自己定义一个。</p>
-<p><strong>绑定快捷键</strong>
-在 Windows Terminal 的配置文件末尾，我们可以在 <code>&quot;keybindings&quot;: []</code> 里定义其快捷键绑定。默认的 Windows Terminal 快捷键实际上就非常好用，可以用来快速开启某个环境、实施分屏操作等。这里举几个比较典型的、无需设置即可使用的例子：</p>
+<hr>
+<p><strong>绑定快捷键</strong></p>
+<p>在 Windows Terminal 的配置文件末尾，我们可以在 <code>&quot;keybindings&quot;: []</code> 里定义其快捷键绑定。默认的 Windows Terminal 快捷键实际上就非常好用，可以用来快速开启某个环境、实施分屏操作等。这里举几个比较典型的、无需设置即可使用的例子：</p>
 <ul>
 <li><code>Ctrl + Shift + T</code> 打开新标签页</li>
 <li><code>Ctrl + Shift + 1</code> 进入配置文件中定义的第一个环境（<code>Ctrl + Shift + 2</code> 进入第二个，以此类推）</li>
