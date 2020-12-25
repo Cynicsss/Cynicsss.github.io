@@ -130,9 +130,9 @@ Introduction RRNet 本次比赛提出并采用的网络框架为——RRNet，�
     </item>
     
     <item>
-      <title>Context Encoding for Semantic Segmentation</title>
+      <title>torchTensorBoard</title>
       <link>https://cynicsss.github.io/posts/encnet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cynicsss.github.io/posts/encnet/</guid>
       <description>本文提出了上下文编码模块(Context Encoding Module)引入全局上下文信息(global contextual information)，用于捕获场景的上下文语义并选择性的突出与类别相关的特征图。 实验证明上下文编码模块能够显著的提升语义分割性能，在Pascal-Context上达到了51.7%mIoU, 在 PASCAL VOC 2012上达到了85.9% mIoU，单模型在ADE20K测试集上达到了0.5567。 此外,论文进一步讨论上下文编码模块在相对浅层的网络中提升特征表示的能力，在CIFAR-10数据集上基于14层的网络达到了3.45%的错误率，和比这个多10倍的层的网络有相当的表现。
