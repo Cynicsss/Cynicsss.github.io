@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Object Detection on Cynicsss</title>
+    <link>https://adityatelange.github.io/hugo-PaperMod/categories/object-detection/</link>
+    <description>Recent content in Object Detection on Cynicsss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/categories/object-detection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VisDrone2019竞赛记录</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/posts/visdrone2019/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/visdrone2019/</guid>
+      <description>简单介绍本组VisDrone2019比赛Object Detection in Images任务所采用的算法方法。
+Introduction RRNet 本次比赛提出并采用的网络框架为——RRNet，主要思想为将单阶段anchor-free算法(CenterNet)通过再次回归变为二阶段算法，通过再回归的方式让本就较精确的bbox更加精准。下图为网络框架图：
+网络主体为CenterNet,backbone为hourglass-104，两个hourglass block的输出全部参与分类及回归，Heatmap代表中心点的激活图，Size代表中心点所对应object长宽的激活图，输出的一共4个map分别进行focal loss和l1 loss的计算。此上为CenterNet的主要部分，接下来我们继续利用其输出的特征图，送入后面的Re-Regression Module进行二次回归。Re-Regression Module内部结构如下：
+通过CenterNet生成的Heatmap以及SIzemap，我们可以直接将其转换成为bbox，得到bbox之后(我们可以将其类比为faster-rcnn中RPN网络生成的候选框)，我们将这些候选区域送入ROI Align，进行再一次回归得到偏移量，将此偏移量加到原始bbox上的到修正后的输出。Major features 除了再回归网络，我们还采用了以下一些方法让性能进一步提升：
+   method mAP     1.two-stage/multi-stage ↑2%   2.wh conv ↑0.3%   3.re-sample ↑1%   4.multiscale training/test ↑2%   5.sync training ↑1%   6.nms/soft nms ↑1%   7.KL-Loss (↑1%?)   8.warm up lr -   9.mix up -   10.ellipse gaussian -    Details 1.</description>
+    </item>
+    
+  </channel>
+</rss>

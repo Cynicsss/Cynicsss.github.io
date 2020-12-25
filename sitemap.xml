@@ -1,34 +1,128 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>/categories/</loc><lastmod>2020-06-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/</loc><lastmod>2020-06-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/categories/daily/</loc><lastmod>2020-06-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/</loc><lastmod>2020-06-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/windows-terminal/</loc><lastmod>2020-06-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/tags/problems/</loc><lastmod>2020-04-17T00:00:00+00:00</lastmod></url><url>
-    <loc>/tags/</loc><lastmod>2020-04-17T00:00:00+00:00</lastmod></url><url>
-    <loc>/categories/%E5%89%91%E6%8C%87offer/</loc><lastmod>2020-04-17T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/%E5%89%91%E6%8C%87offer61-67/</loc><lastmod>2020-04-17T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/%E5%89%91%E6%8C%87offer51-60/</loc><lastmod>2020-04-16T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/%E5%89%91%E6%8C%87offer41-50/</loc><lastmod>2020-04-13T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/%E5%89%91%E6%8C%87offer31-40/</loc><lastmod>2020-04-12T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/%E5%89%91%E6%8C%87offer21-30/</loc><lastmod>2020-03-31T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/%E5%89%91%E6%8C%87offer11-20/</loc><lastmod>2020-03-25T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/%E5%89%91%E6%8C%87offer01-10/</loc><lastmod>2020-03-23T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/agss-vos/</loc><lastmod>2020-01-29T00:00:00+00:00</lastmod></url><url>
-    <loc>/categories/computer-vision/</loc><lastmod>2020-01-29T00:00:00+00:00</lastmod></url><url>
-    <loc>/tags/video-object-segmentation/</loc><lastmod>2020-01-29T00:00:00+00:00</lastmod></url><url>
-    <loc>/categories/leetcode/</loc><lastmod>2020-01-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/tags/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc><lastmod>2020-01-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/%E5%AE%9E%E7%94%A8%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc><lastmod>2020-01-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/about/about/</loc><lastmod>2020-01-10T10:00:55+08:00</lastmod></url><url>
-    <loc>/about/</loc><lastmod>2020-01-10T10:00:55+08:00</lastmod></url><url>
-    <loc>/tags/object-detection/</loc><lastmod>2019-07-22T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/visdrone2019/</loc><lastmod>2019-07-22T00:00:00+00:00</lastmod></url><url>
-    <loc>/categories/pytorch/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/torchtensorboard/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url>
-    <loc>/tags/tensorboard/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/danet-ccnet/</loc><lastmod>2019-01-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/tags/semantic-segmentation/</loc><lastmod>2019-01-21T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/context-encoding-for-semantic-segmentation/</loc><lastmod>2018-07-06T00:00:00+00:00</lastmod></url><url>
-    <loc>/post/firstpost/</loc><lastmod>2018-03-11T00:00:00+00:00</lastmod></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/windowsterminal/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer51-60/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer61-67/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer41-50/</loc>
+    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer31-40/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer21-30/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer11-20/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer01-10/</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/torchtensorboard/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/agss-vos/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/danet-ccnet/danet-ccnet/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/visdrone2019/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/encnet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/tools/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/leetcode-problems/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/segmentation/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/object-detection/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/l2/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/search.l2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/</loc>
+  </url>
+  
+</urlset>
