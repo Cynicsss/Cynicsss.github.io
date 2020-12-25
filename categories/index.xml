@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cynicsss</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/categories/</link>
+    <link>https://cynicsss.github.io/categories/</link>
     <description>Recent content in Categories on Cynicsss</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cynicsss.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tools</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/categories/tools/</link>
+      <link>https://cynicsss.github.io/categories/tools/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/categories/tools/</guid>
+      <guid>https://cynicsss.github.io/categories/tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>leetcode-problems</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/categories/leetcode-problems/</link>
+      <link>https://cynicsss.github.io/categories/leetcode-problems/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/categories/leetcode-problems/</guid>
+      <guid>https://cynicsss.github.io/categories/leetcode-problems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Segmentation</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/categories/segmentation/</link>
+      <link>https://cynicsss.github.io/categories/segmentation/</link>
       <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/categories/segmentation/</guid>
+      <guid>https://cynicsss.github.io/categories/segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Object Detection</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/categories/object-detection/</link>
+      <link>https://cynicsss.github.io/categories/object-detection/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/categories/object-detection/</guid>
+      <guid>https://cynicsss.github.io/categories/object-detection/</guid>
       <description></description>
     </item>
     

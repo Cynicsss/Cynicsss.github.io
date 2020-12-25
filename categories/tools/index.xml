@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tools on Cynicsss</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/categories/tools/</link>
+    <link>https://cynicsss.github.io/categories/tools/</link>
     <description>Recent content in tools on Cynicsss</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cynicsss.github.io/categories/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WindowsTerminal</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/windowsterminal/</link>
+      <link>https://cynicsss.github.io/posts/windowsterminal/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/windowsterminal/</guid>
+      <guid>https://cynicsss.github.io/posts/windowsterminal/</guid>
       <description>Windows Terminal配置过程
 Windows Terminal Windows Terminal 作为一名新晋的Windows终端，当然要来试一下。 目前Windows Terminal已经趋于成熟，个人感觉已经可以让它成为主力终端， 它实现了社区用户热切期望的许多功能(如多标签、主题样式、可配置性、富文本等)，并保持了快速与高效，不会消耗大量内存与电量。下面简单记录一下配置过程。
 Windows Ternimal GitRep
@@ -27,10 +27,10 @@ Windows Terminal的背景可以是一种纯色，也可以是一张高清壁纸�
     
     <item>
       <title>torchTensorBoard</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/torchtensorboard/</link>
+      <link>https://cynicsss.github.io/posts/torchtensorboard/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/torchtensorboard/</guid>
+      <guid>https://cynicsss.github.io/posts/torchtensorboard/</guid>
       <description>&lt;p&gt;Pytorch Tensorboard的简单使用
 &lt;img src=&#34;images/tensorboard01.png&#34; alt=&#34;preview&#34;&gt;&lt;/p&gt;</description>
     </item>

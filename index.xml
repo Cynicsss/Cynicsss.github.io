@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cynicsss</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/</link>
+    <link>https://cynicsss.github.io/</link>
     <description>Recent content on Cynicsss</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cynicsss.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WindowsTerminal</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/windowsterminal/</link>
+      <link>https://cynicsss.github.io/posts/windowsterminal/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/windowsterminal/</guid>
+      <guid>https://cynicsss.github.io/posts/windowsterminal/</guid>
       <description>Windows Terminal配置过程
 Windows Terminal Windows Terminal 作为一名新晋的Windows终端，当然要来试一下。 目前Windows Terminal已经趋于成熟，个人感觉已经可以让它成为主力终端， 它实现了社区用户热切期望的许多功能(如多标签、主题样式、可配置性、富文本等)，并保持了快速与高效，不会消耗大量内存与电量。下面简单记录一下配置过程。
 Windows Ternimal GitRep
@@ -27,101 +27,101 @@ Windows Terminal的背景可以是一种纯色，也可以是一张高清壁纸�
     
     <item>
       <title>剑指offer51-60</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer51-60/</link>
+      <link>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer51-60/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer51-60/</guid>
+      <guid>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer51-60/</guid>
       <description>&lt;p&gt;剑指offer51-60题&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>剑指offer61-67</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer61-67/</link>
+      <link>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer61-67/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer61-67/</guid>
+      <guid>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer61-67/</guid>
       <description>&lt;p&gt;剑指offer61-67题&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>剑指offer41-50</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer41-50/</link>
+      <link>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer41-50/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer41-50/</guid>
+      <guid>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer41-50/</guid>
       <description>&lt;p&gt;剑指offer41-50题&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>剑指offer31-40</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer31-40/</link>
+      <link>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer31-40/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer31-40/</guid>
+      <guid>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer31-40/</guid>
       <description>&lt;p&gt;剑指offer31-40题&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>剑指offer21-30</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer21-30/</link>
+      <link>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer21-30/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer21-30/</guid>
+      <guid>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer21-30/</guid>
       <description>&lt;p&gt;剑指offer21-30题&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>剑指offer11-20</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer11-20/</link>
+      <link>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer11-20/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer11-20/</guid>
+      <guid>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer11-20/</guid>
       <description>&lt;p&gt;剑指offer11-20题&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>剑指offer01-10</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer01-10/</link>
+      <link>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer01-10/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/%E5%89%91%E6%8C%87offer01-10/</guid>
+      <guid>https://cynicsss.github.io/posts/%E5%89%91%E6%8C%87offer01-10/</guid>
       <description>&lt;p&gt;剑指offer1-10题&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>torchTensorBoard</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/torchtensorboard/</link>
+      <link>https://cynicsss.github.io/posts/torchtensorboard/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/torchtensorboard/</guid>
+      <guid>https://cynicsss.github.io/posts/torchtensorboard/</guid>
       <description>&lt;p&gt;Pytorch Tensorboard的简单使用
 &lt;img src=&#34;images/tensorboard01.png&#34; alt=&#34;preview&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>AGSS-VOS</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/agss-vos/</link>
+      <link>https://cynicsss.github.io/posts/agss-vos/</link>
       <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/agss-vos/</guid>
+      <guid>https://cynicsss.github.io/posts/agss-vos/</guid>
       <description>&lt;p&gt;此篇文章为iccv2019中关于视频分割的一篇文章，主要针对多物体进行视频object分割，值得一读&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>DANet-CCNet</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/danet-ccnet/danet-ccnet/</link>
+      <link>https://cynicsss.github.io/posts/danet-ccnet/danet-ccnet/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/danet-ccnet/danet-ccnet/</guid>
+      <guid>https://cynicsss.github.io/posts/danet-ccnet/danet-ccnet/</guid>
       <description>&lt;p&gt;两篇文章都是将self-attention机制应用到分割当中，扩大感受野。第二篇文章采用了更巧妙的方法来减少参数。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>VisDrone2019竞赛记录</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/visdrone2019/</link>
+      <link>https://cynicsss.github.io/posts/visdrone2019/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/visdrone2019/</guid>
+      <guid>https://cynicsss.github.io/posts/visdrone2019/</guid>
       <description>简单介绍本组VisDrone2019比赛Object Detection in Images任务所采用的算法方法。
 Introduction RRNet 本次比赛提出并采用的网络框架为——RRNet，主要思想为将单阶段anchor-free算法(CenterNet)通过再次回归变为二阶段算法，通过再回归的方式让本就较精确的bbox更加精准。下图为网络框架图：
 网络主体为CenterNet,backbone为hourglass-104，两个hourglass block的输出全部参与分类及回归，Heatmap代表中心点的激活图，Size代表中心点所对应object长宽的激活图，输出的一共4个map分别进行focal loss和l1 loss的计算。此上为CenterNet的主要部分，接下来我们继续利用其输出的特征图，送入后面的Re-Regression Module进行二次回归。Re-Regression Module内部结构如下：
@@ -131,10 +131,10 @@ Introduction RRNet 本次比赛提出并采用的网络框架为——RRNet，�
     
     <item>
       <title>Context Encoding for Semantic Segmentation</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/encnet/</link>
+      <link>https://cynicsss.github.io/posts/encnet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/encnet/</guid>
+      <guid>https://cynicsss.github.io/posts/encnet/</guid>
       <description>本文提出了上下文编码模块(Context Encoding Module)引入全局上下文信息(global contextual information)，用于捕获场景的上下文语义并选择性的突出与类别相关的特征图。 实验证明上下文编码模块能够显著的提升语义分割性能，在Pascal-Context上达到了51.7%mIoU, 在 PASCAL VOC 2012上达到了85.9% mIoU，单模型在ADE20K测试集上达到了0.5567。 此外,论文进一步讨论上下文编码模块在相对浅层的网络中提升特征表示的能力，在CIFAR-10数据集上基于14层的网络达到了3.45%的错误率，和比这个多10倍的层的网络有相当的表现。
 EncNet introduction 扩张卷积存在的问题 先进的语义分割系统通常是基于FCN架构，采用的深度卷积神经网络受益于从不同图片中学习到的丰富的对象类别信息和场景语义。CNN通过堆叠带非线性激活和下采样的卷积层能够捕获带全局接受野的信息表示，为了克服下采样带来的空间分辨率损失，最近的工作使用扩张卷积策略从预训练模型上产生密集预测。然而，此策略依然会将像素从全局场景上下文相隔开，这会导致像素错误分类。
 如下图，错误的将窗格分为门。
@@ -157,37 +157,37 @@ Semantic Encoding Loss： 使用Semantic Encoding Loss (SE-loss)在添加少量�
     
     <item>
       <title>Archive</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/l2/archives/</link>
+      <link>https://cynicsss.github.io/l2/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/l2/archives/</guid>
+      <guid>https://cynicsss.github.io/l2/archives/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/archives/</link>
+      <link>https://cynicsss.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/archives/</guid>
+      <guid>https://cynicsss.github.io/archives/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/search/</link>
+      <link>https://cynicsss.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/search/</guid>
+      <guid>https://cynicsss.github.io/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SearchL2</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/search.l2/</link>
+      <link>https://cynicsss.github.io/search.l2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/search.l2/</guid>
+      <guid>https://cynicsss.github.io/search.l2/</guid>
       <description></description>
     </item>
     
