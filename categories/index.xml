@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Cynicsss</title>
+    <link>https://cynicsss.github.io/categories/</link>
+    <description>Recent content in Categories on Cynicsss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cynicsss.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tools</title>
+      <link>https://cynicsss.github.io/categories/tools/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cynicsss.github.io/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leetcode-problems</title>
+      <link>https://cynicsss.github.io/categories/leetcode-problems/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cynicsss.github.io/categories/leetcode-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation</title>
+      <link>https://cynicsss.github.io/categories/segmentation/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cynicsss.github.io/categories/segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Detection</title>
+      <link>https://cynicsss.github.io/categories/object-detection/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cynicsss.github.io/categories/object-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
