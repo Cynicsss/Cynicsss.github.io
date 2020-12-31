@@ -5,7 +5,16 @@
     <link>https://cynicsss.github.io/posts/</link>
     <description>Recent content in Posts on Cynicsss</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cynicsss.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cynicsss.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>显著性检测、语义分割与图像抠图的区别</title>
+      <link>https://cynicsss.github.io/posts/%E6%98%BE%E8%91%97%E6%80%A7%E6%A3%80%E6%B5%8B%E5%88%86%E5%89%B2%E6%8A%A0%E5%9B%BE/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cynicsss.github.io/posts/%E6%98%BE%E8%91%97%E6%80%A7%E6%A3%80%E6%B5%8B%E5%88%86%E5%89%B2%E6%8A%A0%E5%9B%BE/</guid>
+      <description>&lt;p&gt;那天看到有关于Image Matting的论文，感觉就是二分类语义分割————显著性检测的样子，但是查了下才发现不一样&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>车道线检测LaneDetection</title>
       <link>https://cynicsss.github.io/posts/%E8%BD%A6%E9%81%93%E7%BA%BF%E6%A3%80%E6%B5%8Blanedetection/</link>
